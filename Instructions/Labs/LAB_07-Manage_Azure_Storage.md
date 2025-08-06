@@ -98,7 +98,7 @@ In this task, you will create and configure an Azure Storage account.
     + Change the **public access level** to **Enabled from all network (2)**.
     + Be sure to **Save (3)** your changes. 
 
-      ![image](./media/az104-6.png)    
+      ![image](./media/managestr.png)    
 
 1. In the **Data management** section, view the **Redundancy** blade. Notice the information about your primary data center locations.
 
